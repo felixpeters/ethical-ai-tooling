@@ -1,4 +1,9 @@
-# Ethical AI
+# Ethical AI Tooling
+
+This repo serves to experiment with tooling for making AI more trustworthy,
+i.e., more transparent, fair, secure and privacy-respecting. My aim is to 
+work with real-world datasets as much as possible in order to ensure
+transferability to practice.
 
 ## Setup
 
